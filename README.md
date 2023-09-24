@@ -2,7 +2,7 @@
     Projeto clone site God of War
 </h1>
 
-<h2> <a href=""> Veja o projeto hospedado </a> </h2>
+<h2> <a href="https://caua-abreu.github.io/Clone-GoW/"> Veja o projeto hospedado </a> </h2>
 
 <h2>🚨 Sobre o projeto: </h2>
 
